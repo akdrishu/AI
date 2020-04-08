@@ -19,7 +19,7 @@ To run:
 
 ```
 > python cube.py
-Step by step instruction is available in run.txt.
+
 ```
 
 > Detailed instructions are available in [run.txt](run.txt). 
