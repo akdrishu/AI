@@ -3,16 +3,17 @@ Dsign a 3X3 rubik's cube solver using opencv-python . Use kociemba two-phase alg
 
 Libraries:
 
-kociemba
-python-opencv
-requests
+  kociemba
+  python-opencv
+  requests
 To run:
 
 > python cube.py
+
 Step by step instruction is available in run.txt.
 
 Dependencies:
 
-Python 3.x
-OpenCV
-Ip Webcam
+  Python 3.x
+  OpenCV
+  Ip Webcam
