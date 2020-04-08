@@ -16,7 +16,7 @@ To run:
 > python cube.py
 
 
-> Detailed instructions are available in [run.txt](run.txt). 
+Detailed instructions are available in [run.txt](run.txt). 
 
 Dependencies:
 
