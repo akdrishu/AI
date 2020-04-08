@@ -1,5 +1,3 @@
-# AI
-Dsign a 3X3 rubik's cube solver using opencv-python . Use kociemba two-phase algorithm to find optimal solution(for any case maximum number of face turns is 20). Webcam or mobile camera(conntected by a local network) is used to detect colors .
 # Rubik's Cube Solver 
 Dsign a 3X3 rubik's cube solver using opencv-python .
 Use kociemba two-phase algorithm to find optimal solution(for any case maximum number of face turns is 20).
@@ -12,22 +10,16 @@ Libraries:
 
 
 
-kociemba
-python-opencv
-requests
 To run:
 
-```
+
 > python cube.py
 
-```
 
 > Detailed instructions are available in [run.txt](run.txt). 
+
 Dependencies:
 
-Python 3.x
-OpenCV
-Ip Webcam
 * Python 3.x
 * OpenCV
 * [Ip Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_IN)
