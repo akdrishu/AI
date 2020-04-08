@@ -6,7 +6,7 @@ Important :  In this project color detection mechanism strongly depends on -
 			3. image quality of the camera
 		    
 
-	    Solution :    If programme can’t detect the perfectly change the hsv range of the colors in hsv_to_name function(in colorDetection.py).
+	    Solution :    If programme can’t detect the perfectly change in the hsv range of the colors in hsv_to_name function(in colorDetection.py).
 	    		  You can also take help of get_hsv funtion(in colorDetection.py) to find right hsv value.
 
 
